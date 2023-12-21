@@ -1,4 +1,20 @@
-# ECOM SERVICE BACKEND SANS ANGULAR FAHD BENZINANE :
+# ECOM SERVICE FRONTEND AVEC ANGULAR FAHD BENZINANE :
+
+lISTE DES CUSTOMERS AVEC ORDERS:
+
+![angular 1](https://github.com/fidoxdox233/ecom_service_controle/assets/53585316/69dcca64-3cc6-4430-b4fe-a92ec2383599)
+
+AFFICHAGE ORDERS DE FAHD :
+
+![angular 2](https://github.com/fidoxdox233/ecom_service_controle/assets/53585316/215819c3-5838-4504-8e92-ee3856bc4a76)
+
+AFFICHAGE LISTE DES PRODUCTS :
+
+![angular 3](https://github.com/fidoxdox233/ecom_service_controle/assets/53585316/8f9d838e-5bf7-466e-a392-da722f7b3b4d)
+
+
+
+# ECOM SERVICE TEST DES ROUTES FAHD BENZINANE :
 
 #Structure de la partie backend :
 
